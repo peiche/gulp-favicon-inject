@@ -8,7 +8,8 @@
   },
   "keywords": [
     "gulp",
-    "favicon"
+    "favicon",
+    "inject"
   ],
   "author": "Paul Eiche <peiche@gmail.com>",
   "license": "ISC",
