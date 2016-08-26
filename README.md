@@ -1,4 +1,4 @@
-# Gulp Favicon Inject
+# Gulp Favicon Injection
 ## Sample Gulp project that generates a set of favicon files and injects them into the <head> of a page.
 
 This repo is not meant to be used directly, but rather as an example for how to set up favicon markup injection into the project of your choice.
