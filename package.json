@@ -17,6 +17,7 @@
     "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-favicons": "^2.2.6",
-    "gulp-inject": "^4.1.0"
+    "gulp-inject": "^4.1.0",
+    "gulp-util": "^3.0.7"
   }
 }
