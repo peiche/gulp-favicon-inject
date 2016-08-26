@@ -1,0 +1,21 @@
+{
+  "name": "gulp-favicon-inject",
+  "version": "1.0.0",
+  "description": "Sample Gulp project that generates a set of favicon files and injects them into the <head> of a page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "favicon"
+  ],
+  "author": "Paul Eiche <peiche@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-favicons": "^2.2.6",
+    "gulp-inject": "^4.1.0"
+  }
+}
