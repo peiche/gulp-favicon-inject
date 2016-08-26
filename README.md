@@ -5,6 +5,8 @@ This repo is not meant to be used directly, but rather as an example for how to 
 
 ### Set up
 
+To set up Gulp, follow [their instructions](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md).
+
 After cloning or downloading the project, run this command:
 
 ```
@@ -64,5 +66,6 @@ There is a single `config` object defined at the top of `gulpfile.js`. Use it to
 
 ### Thanks
 
+[Gulp](http://gulpjs.com/) - The streaming build system.
 [Favicons.io](http://favicons.io/) - Module for Node.js for generating favicons and their associated files.  
 [Launcher Icon Generator](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html) - Icon generator which allows you to quickly and easily generate icons from existing source images, clipart, or text.
